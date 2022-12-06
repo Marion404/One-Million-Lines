@@ -1,0 +1,19 @@
+/* Vos customisations des classes de Bootstrap */
+#home {
+    background-image: url(../images/hero-image.jpg);
+    text-align: center;
+    background-size: 100%;
+}
+
+#who {
+    text-align: center;
+}
+
+
+/* Responsive Styling */
+
+@media (max-width: 1199px) {}
+
+@media (max-width: 991px) {}
+
+@media (max-width: 767px) {}
