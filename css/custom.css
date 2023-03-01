@@ -1,0 +1,31 @@
+/* Vos customisations des classes de Bootstrap */
+#home {
+    background-image:url(../images/hero-image.jpg);
+}
+
+span {
+    color: red;
+}
+
+#red {
+    color: red;
+}
+
+svg {
+    height: 120px;
+    width: 120;
+}
+
+/* Responsive Styling */
+
+@media (max-width: 1199px) {
+
+}
+
+@media (max-width: 991px) {
+
+}
+
+@media (max-width: 767px) {
+
+}
